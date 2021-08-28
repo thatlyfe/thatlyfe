@@ -4,4 +4,4 @@
 
 → Computer Programmer + Designer.
 
-→ Creating, @010Engine. [010.so]
+→ Creating, @010Engine.
